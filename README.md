@@ -1,4 +1,7 @@
 # Moroccan Earthquake Twitter Analysis
+
+***Note**- Do look into [images](/images/) and [data](/data) for in-depth information.*
+
 This study investigates the role of social media during natural disasters, with a specific focus on public perceptions surrounding the impactful earthquake in Morocco in September 2023. Examining tweets before, during, and after the event, our analysis aims to uncover prevalent topics and their interconnections.
 
 This study aims to accomplish the following goals:
