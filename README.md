@@ -32,7 +32,7 @@ The minimal count of alerts and the limited demand for heightened support and re
 
 <hr>
 
-<img src="/images/Date-Sentiment.png" alt="sentiment-datewise"/>
+<img src="/images/date-sentiment.png" alt="sentiment-datewise"/>
 On September 9, 2023, the negative responses shot up, while the positive and neutral were almost unmoved indicating that the majority of people have had negative effects from the earthquake.
 
 
