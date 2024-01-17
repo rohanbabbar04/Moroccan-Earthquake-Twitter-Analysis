@@ -21,4 +21,15 @@ This study aims to accomplish the following goals:
   </tr>
 </table>
 
+## Results
+
+<img src="/images/classification.png" alt="classification-topics"/>
+On September 9, 2023, the day of the earthquake, a substantial number of casualties and significant property damage were observed, signifying a tragic loss of lives and assets. Two days later, on September 11, 2023, the death toll was still high, attributed to additional seismic activity in Morocco, with subsequent smaller tremors leading to the overall loss.
+The minimal count of alerts and the limited demand for heightened support and response following the earthquake point toward a deficiency in preparedness and an inadequacy of information.
+
+<hr>
+
+<img src="/images/Date-Sentiment.png" alt="sentiment-datewise"/>
+On September 9, 2023, the negative responses shot up, while the positive and neutral were almost unmoved indicating that the majority of people have had negative effects from the earthquake.
+
 
